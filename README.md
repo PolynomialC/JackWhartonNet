@@ -1,2 +1,2 @@
 # JackWharton.net
-SPA - Personal blog
+Information Security, automation, software things
